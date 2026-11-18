@@ -28,19 +28,19 @@ This repository currently contains:
 
 ## Dashboard screenshots
 
-The report has three pages. The screenshots below are preview images; use the Power BI `.pbix` file for the interactive report once it is added to `dashboard/`.
+The report has three pages. The PNG previews belong in the `images/` folder; upload the three matching PNG files there to display them below. Use the Power BI `.pbix` file for the interactive report.
 
 ### Executive Overview
 
-![Executive Overview](images/executive-overview.jpg)
+![Executive Overview](images/executive-overview.png)
 
 ### Channel Performance
 
-![Channel Performance](images/channel-performance.jpg)
+![Channel Performance](images/channel-performance.png)
 
 ### Model Health & Anomalies
 
-![Model Health & Anomalies](images/model-health-anomalies.jpg)
+![Model Health & Anomalies](images/model-health-anomalies.png)
 
 ## Key analytical definitions and caveats
 
