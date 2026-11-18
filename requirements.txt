@@ -1,7 +1,8 @@
 pandas
 numpy
+duckdb
+matplotlib
 scikit-learn
 statsmodels
 pymc
 arviz
-matplotlib
