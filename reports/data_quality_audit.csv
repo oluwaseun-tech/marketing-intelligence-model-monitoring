@@ -1,0 +1,25 @@
+dataset,check,issue_count,status
+Advertising,Missing: date,0,PASS
+Advertising,Missing: channel,0,PASS
+Advertising,Missing: campaign_id,1,FAIL
+Advertising,Missing: campaign_name,0,PASS
+Advertising,Missing: spend,2,FAIL
+Advertising,Missing: impressions,0,PASS
+Advertising,Missing: clicks,0,PASS
+Advertising,Missing: conversions,0,PASS
+Advertising,Missing: adstock,0,PASS
+Advertising,Missing: channel_effect,0,PASS
+Advertising,Duplicate records,1,FAIL
+Advertising,Negative advertising spend,1,FAIL
+Advertising,Clicks exceeding impressions,0,PASS
+Sales,Missing: date,0,PASS
+Sales,Missing: orders,0,PASS
+Sales,Missing: new_customers,0,PASS
+Sales,Missing: revenue,0,PASS
+Sales,Missing: average_order_value,0,PASS
+Sales,Duplicate records,0,PASS
+Promotions,Missing: date,0,PASS
+Promotions,Missing: promotion_active,0,PASS
+Promotions,Missing: discount_rate,0,PASS
+Promotions,Missing: seasonality_index,0,PASS
+Promotions,Duplicate records,0,PASS
