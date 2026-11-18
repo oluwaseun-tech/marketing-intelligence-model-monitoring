@@ -26,6 +26,22 @@ This repository currently contains:
 
 **The original five notebooks, complete raw and processed CSV datasets, monitoring report exports, Bayesian trace file and Power BI `.pbix` dashboard have not yet been uploaded to this repository.** The complete project archive is available in the ChatGPT conversation where the project was prepared.
 
+## Dashboard screenshots
+
+The report has three pages. The screenshots below are preview images; use the Power BI `.pbix` file for the interactive report once it is added to `dashboard/`.
+
+### Executive Overview
+
+![Executive Overview](images/executive-overview.jpg)
+
+### Channel Performance
+
+![Channel Performance](images/channel-performance.jpg)
+
+### Model Health & Anomalies
+
+![Model Health & Anomalies](images/model-health-anomalies.jpg)
+
 ## Key analytical definitions and caveats
 
 - CTR = clicks / impressions; CVR = conversions / clicks; CPC = spend / clicks; CPA = spend / conversions.
