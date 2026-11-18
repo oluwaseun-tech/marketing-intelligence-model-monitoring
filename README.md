@@ -49,7 +49,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run notebooks in numerical order:
+Download and extract [`notebooks/notebook_source_bundle.zip`](notebooks/notebook_source_bundle.zip) into the `notebooks/` folder, then run the notebooks in numerical order:
 
 1. `01_data_generation.ipynb`
 2. `02_data_quality_audit.ipynb`
@@ -57,7 +57,7 @@ Run notebooks in numerical order:
 4. `04_bayesian_mmm.ipynb`
 5. `05_marketing_model_monitoring.ipynb`
 
-Open `dashboard/Marketing_Intelligence_Model_Monitoring.pbix` in Power BI Desktop.
+Open `dashboard/Marketing_Intelligence_Model_Monitoring.pbix` in Power BI Desktop. The original `.pbix` dashboard and complete CSV data exports are not included in this initial repository upload; the dashboard and data remain in the source ZIP shared for publication.
 
 ## Tools
 
